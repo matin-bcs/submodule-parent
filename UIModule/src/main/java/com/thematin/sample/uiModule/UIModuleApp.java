@@ -2,7 +2,10 @@ package com.thematin.sample.uiModule;
 
 public class UIModuleApp {
 
-	public static void main(String[] args) {
+	/**
+	 * @param args 크아아아아
+	 */
+	public static void main(final String[] args) {
 
 		System.out.println("added from eclipse");
 
