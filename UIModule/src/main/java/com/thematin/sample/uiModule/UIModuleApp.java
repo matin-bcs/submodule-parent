@@ -3,7 +3,7 @@ package com.thematin.sample.uiModule;
 public class UIModuleApp {
 
 	/**
-	 * @param args 크아아아아
+	 * @param args 크아아아아 3333
 	 */
 	public static void main(final String[] args) {
 
